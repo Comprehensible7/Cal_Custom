@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cal_Custom</string>
+    <string name="bt_Plus">+</string>
+    <string name="bt_Minus">-</string>
+    <string name="bt_Mul">*</string>
+    <string name="bt_Div">/</string>
+    <string name="bt_1">1</string>
+    <string name="bt_2">2</string>
+    <string name="bt_3">3</string>
+    <string name="bt_4">4</string>
+    <string name="bt_5">5</string>
+    <string name="bt_6">6</string>
+    <string name="bt_7">7</string>
+    <string name="bt_8">8</string>
+    <string name="bt_9">9</string>
+    <string name="bt_0">0</string>
+    <string name="bt_10">.</string>
+    <string name="bt_Clear">C</string>
+    <string name="bt_Equal">=</string>
+    <string name="bt_Del">Del</string>
+</resources>
