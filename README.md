@@ -1,7 +1,7 @@
 ## Cal_Custom
 
-Basically operable calculator
-Include decimal counting function
+- Basically operable calculator
+- Include decimal counting function
 
 # Development Environment
 
